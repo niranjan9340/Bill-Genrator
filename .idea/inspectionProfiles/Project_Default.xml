@@ -1,0 +1,29 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E231" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="set.column" />
+          <option value="streamlit.get_rerun" />
+          <option value="Home.Registration_Form" />
+          <option value="Registration_Form" />
+          <option value="Home.k" />
+          <option value="Home.*" />
+          <option value="pages.Registration_Form.Library" />
+          <option value="pages.Registration_Form.HomeLibrary" />
+          <option value="pages.Registration_Form.*" />
+          <option value="pages.Fee.df" />
+          <option value="main.PDFWithImage" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
